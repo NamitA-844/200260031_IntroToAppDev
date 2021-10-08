@@ -1,14 +1,4 @@
 # Calculator_self-project
-
-Takes input and delivers ouptut up to two decimal places. 
-Took the user input as two strings and defined operations (essentially) based on places of digits of the number. 
-Flutter packages used are: material.dart and cupertino.dart
-The app extends StatelessWidget, which makes the app itself a widget. 
-Have used buttons from 'material library' for the numbers and operators which contain Containers to allow for personalized designs and also because it is a convenience widget that combines common painting, positioning and sizing of widgets. 
-The Scaffold widget, provides a default app bar, and a body property that holds the widget tree for the home screen. 
-The function parse (belonging to class 'double') source as an double liternal and returns the value. 
-Other functions used in their literal sense. 
-
 I have developed a simple flutter project, a mobile application using the Dart programming language. It can perform all the basic algebraic calculations, involving two or more numbers. This is an attempt to learn and apply some of the most helpful widgets and flutter packages implemented using Dart programming.
 
 REPORT:
